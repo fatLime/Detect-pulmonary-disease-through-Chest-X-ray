@@ -20,5 +20,10 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    ```  
 3. Save all images under `ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC`  
 
-4. Save `Data_Entry_2017.csv` and `BBox_List_2017.csv` under `ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC_other`
-  
+4. Save `Data_Entry_2017.csv` and `BBox_List_2017.csv` under `ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC_other`  
+
+5. Process the Data
+   ```Shell
+   mkdir ROOT/azure-share/chestxray/output/data_partitions
+   ```  
+   Run `000_preprocess.py` to create `*.pickle` file under this directory 

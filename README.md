@@ -51,7 +51,15 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    | Pleural Thickening | 1.000000         | 0.8062             | -0.193800 
    | Hernia             | 0.916610         | 0.9164             | -0.000210   
    
-# Visualization  
-Run `004_cam_simple.py` and it will output a Class Activation Map(CAM). 
+# Visualization    
+1. Create Folder Test
+   ```Shell
+   mkdir ROOT/azure-share/chestxray/data/ChestX-ray8/test_images
+   ```  
+   Copy any number of images under `ChestXray-NIHCC` to `test_images` and resize them to 224x224 pixels.  
+
+2. Run `004_cam_simple.py` and it will output a Class Activation Map(CAM). The CAM lets us see which regions in the image were relevant to this class.  
+
+# Referenced Paper
 
 

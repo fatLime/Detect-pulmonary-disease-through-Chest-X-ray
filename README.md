@@ -6,4 +6,5 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
   git clone https://github.com/svishwa/crowdcount-mcnn.git
   ```
   We'll call the directory that you cloned PredictLungDisease `ROOT`  
+  
 2.All essential dependencies should be installed  

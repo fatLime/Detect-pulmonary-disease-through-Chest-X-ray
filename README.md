@@ -34,8 +34,8 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
 
 3. Below is the result showing the AUC score of all the 14 diseases:  
 
-   | Disease            | Our AUC Score    | Stanford AUC Score | Delta     :
-   |--------------------|------------------|--------------------|-----------
+   | Disease            | Our AUC Score    | Stanford AUC Score | Delta     
+   |--------------------|------------------|--------------------|-----------:
    | Atelectasis        | 0.822334         | 0.8094             | -0.012934 
    | Cardiomegaly       | 0.933610         | 0.9248             | -0.008810 
    | Effusion           | 0.882471         | 0.8638             | -0.018671 

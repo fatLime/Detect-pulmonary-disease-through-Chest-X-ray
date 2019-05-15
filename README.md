@@ -33,6 +33,7 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
 2. Run `020_evaluate.py` and it will create `weights_only_azure_chest_xray_14_weights_712split_epoch_054_val_loss_191.2588.hdf5` saving weights of the pretrained-model under the same directory.
 
 3. Below is the result showing the AUC score of all the 14 diseases:  
+
    | Disease            | OUr AUC Score    | Stanford AUC Score | Delta     |
    |--------------------|------------------|--------------------|-----------|
    | Atelectasis        | 0.822334         | 0.8094             | -0.012934 |
@@ -48,4 +49,6 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    | Emphysema          | 0.847477         | 0.9371             |  0.089623 |
    | Fibrosis           | 0.882602         | 0.8047             | -0.077902 |
    | Pleural Thickening | 1.000000         | 0.8062             | -0.193800 |
-   | Hernia             | 0.916610         | 0.9164             | -0.000210 | 
+   | Hernia             | 0.916610         | 0.9164             | -0.000210 |  
+   
+   

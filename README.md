@@ -9,5 +9,6 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
   
 2.All essential dependencies should be installed  
 # Data set up
-Download the NIH Chest X-ray Dataset from:
-https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0
+1.Download the NIH Chest X-ray Dataset from:
+  https://nihcc.app.box.com/v/ChestXray-NIHCC. 
+  You need to get all the image files (all the files under `images` folder in NIH Dataset), `Data_Entry_2017.csv` file, as well as the Bounding Box data `BBox_List_2017.csv`.

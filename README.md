@@ -17,6 +17,8 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    ```Shell
    mkdir ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC
    mkdir ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC_other
-   
-  
+   ```  
+3. Save all images under `ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC`  
+
+4. Save `Data_Entry_2017.csv` and `BBox_List_2017.csv` under `ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC_other`
   

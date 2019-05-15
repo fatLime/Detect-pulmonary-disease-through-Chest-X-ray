@@ -51,5 +51,7 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    | Pleural Thickening | 1.000000         | 0.8062             | -0.193800 
    | Hernia             | 0.916610         | 0.9164             | -0.000210   
    
-# Model Visualization(Class Active Mapping)  
+# Visualization  
+Run `004_cam_simple.py` and it will output a Class Activation Map(CAM). 
+
 

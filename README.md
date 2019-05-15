@@ -46,7 +46,7 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    | Pneumothorax       | 0.829764         | 0.8887             |  0.058936 |
    | Consolidation      | 0.811969         | 0.7901             | -0.021869 |
    | Edema              | 0.894102         | 0.8878             | -0.006302 |
-   | Emphysema          | 0.847477         | 0.9371             |  0.089623 |
+   | Emphysema          | 0.847477         | 0.9371             |   0.089623|
    | Fibrosis           | 0.882602         | 0.8047             | -0.077902 |
    | Pleural Thickening | 1.000000         | 0.8062             | -0.193800 |
    | Hernia             | 0.916610         | 0.9164             | -0.000210 |  

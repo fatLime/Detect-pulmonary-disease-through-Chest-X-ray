@@ -11,4 +11,12 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
 # Data set up
 1. Download the NIH Chest X-ray Dataset from here:  
    https://nihcc.app.box.com/v/ChestXray-NIHCC.  
-   You need to get all the image files (all the files under `images` folder in NIH Dataset), `Data_Entry_2017.csv` file, as well as the      Bounding Box data `BBox_List_2017.csv`.
+   You need to get all the image files (all the files under `images` folder in NIH Dataset), `Data_Entry_2017.csv` file, as well as the      Bounding Box data `BBox_List_2017.csv`.  
+
+2. Create Directory 
+  ```Shell
+  mkdir ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC
+  mkdir ROOT/azure-share/chestxray/data/ChestX-ray8/ChestXray-NIHCC_other
+  ```Shell
+  
+  

@@ -8,3 +8,6 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
   We'll call the directory that you cloned PredictLungDisease `ROOT`  
   
 2.All essential dependencies should be installed  
+# Data set up
+Download the NIH Chest X-ray Dataset from:
+https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0

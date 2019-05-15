@@ -28,4 +28,5 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    ```  
    Run `000_preprocess.py` to create `*.pickle` file under this directory 
 # Test  
-1. We have provided the pretrained-model `azure_chest_xray_14_weights_712split_epoch_054_val_loss_191.2588.hdf5` under `ROOT/azure-  share/chestxray/output/fully_trained_models`
+1. We have provided the pretrained-model `azure_chest_xray_14_weights_712split_epoch_054_val_loss_191.2588.hdf5` under `ROOT/azure-  share/chestxray/output/fully_trained_models`. You can also download it separately from [here] (https://chestxray.blob.core.windows.net/chestxraytutorial/tutorial_xray/chexray_14_weights_712split_epoch_054_val_loss_191.2588.hdf5)  
+
